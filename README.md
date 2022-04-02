@@ -3,7 +3,7 @@
 ## Name of the Contents in this Document:
 
 1. [Podcasts](Podcasts.md) 
-2. Linguistics on Social Media
+2. [Linguistics on Social Media](Linguistics-on-Social-Media.md)
 3. Journals
 4. How to mentor Graduate Students (Michigan Guide)
 5. LinguistList Graduate Programs with Funding Information
