@@ -11,7 +11,7 @@
 7. [Language Learning Resources](Language-Learning-Resources.md)
 8. [Tech](Tech.md)
 9. [Academic Writing Support](Academic-Writing-Support.md)
-10. [Graduate Program Application Advice](Graduate-program-Application-Advice.md)
+10. [Graduate Program Application Advice](Graduate-Program-Application-Advice.md)
 11. [Facebook Groups for Linguistics](Facebook-Groups-for-Linguistics.md)
 12. Massive Resource Compilation from:
     1. [Linguistic Society of America](Linguistic-Society-of-America.md)
