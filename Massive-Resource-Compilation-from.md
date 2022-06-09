@@ -8,7 +8,7 @@ b) [Cognitive Science Society:](https://cognitivesciencesociety.org/past-confere
              
 c) [MIT Cognitive Neuroscience:](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-13-the-human-brain-spring-2019/lecture-videos/index.htm)
             
-d) [Sign Language:](https://sites.google.com/view/adamcschembri/presentations?authuser=0)
+d) [Sign Language:](https://sites.google.com/view/adamcschembri/presentations?authuser=0) 
 
  e)[KnowNeuroPsychology
 Mailing list](https://easywp.us4.list-manage.com/subscribe?u=016e0eb7b02713dfd5a421e30&id=3b18e2d345)
