@@ -10,7 +10,7 @@ c) [MIT Cognitive Neuroscience:](https://ocw.mit.edu/courses/brain-and-cognitive
             
 d) [Sign Language:](https://sites.google.com/view/adamcschembri/presentations?authuser=0) 
 
- e)[KnowNeuroPsychology
+ e) [KnowNeuroPsychology
 Mailing list](https://easywp.us4.list-manage.com/subscribe?u=016e0eb7b02713dfd5a421e30&id=3b18e2d345)
 
 
