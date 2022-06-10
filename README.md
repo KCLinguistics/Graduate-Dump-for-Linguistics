@@ -13,7 +13,7 @@
 9. [Academic Writing Support](Academic-Writing-Support.md)
 10. [Graduate Program Application Advice](Graduate-Program-Application-Advice.md)
 11. [Facebook Groups for Linguistics](Facebook-Groups-for-Linguistics.md)
-12. Massive Resource Compilation from:
+12. [Massive Resource Compilation from](Massive-Resource-Compilation-from.md)
     1. [Linguistic Society of America](Linguistic-Society-of-America.md)
     2. [Cognitive Science Society](Cognitive-Science-Society.md)
     3. [MIT Cognitive Neuroscience](Cognitive-Science-Society.md) 
