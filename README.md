@@ -7,7 +7,7 @@
 
 3. [Journals](pages/Journals.md)
 4. [How to mentor Graduate Students (Michigan Guide)](https://rackham.umich.edu/downloads/how-to-mentor-graduate-students.pdf)
-5. [LinguistList Graduate Programs with Funding Information](https://linguistlist.org/support/browse-support.cfm)
+5. [LinguistList Graduate Programs with Funding Information](https://old.linguistlist.org/support/browse-support.cfm)
 6. [Resources for Application Material](pages/Resources-for-Application-Material.md)
 7. [Language Learning Resources](pages/Language-Learning-Resources.md)
 8. [Tech](pages/Tech.md)
