@@ -16,3 +16,4 @@
 11. [Facebook Groups for Linguistics](pages/Facebook-Groups-for-Linguistics.md)
 12. [Massive Resource Compilation from](pages/Massive-Resource-Compilation-from.md)
 13. [Internships](pages/Internships.md)
+14. [Linguistics Socities](pages/Linguistics-Socities.md)
