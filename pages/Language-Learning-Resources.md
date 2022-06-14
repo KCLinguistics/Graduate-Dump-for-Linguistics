@@ -43,5 +43,23 @@ More Language Learning Oppurtunities at
 
 * For Indian-American [Minneapolis Indian American Center for Ojibwe and Dakota
 ](https://www.maicnet.org/)
+
+* For IELTS, go through the following resources to know how the test is conducted.
+
+It starts with 1) An oral test, followed by a written test the next day in three segments 1) A listening comprehension test (you will be given headphones for the listening comprehension), 2) A reading comprehension test (answering questions from long paragraphs), and finally, 3) Writing competence: Describing a Vinn Diagram, A bar graph, Writing an argument for a situation, etc.
+
+This is nothing that you have not done already. In fact, we do it every day in our lives!
+
+Here are the resources: 
+
+1) https://play.google.com/store/apps/details?id=com.britishcouncil.ieltsprep
+2) https://takeielts.britishcouncil.org/take-ielts/prepare/ielts-on-computer/familiarisation-test
+3) https://www.youtube.com/channel/UCiooIcx7Slmuczo6HkaE41g
+4) https://www.facebook.com/TakeIELTSOfficial
+5) Sign up for free workshops: https://registration.britishcouncil.org/l/734493/2020-06-09/28xn1?utm_source=Social_Media&utm_medium=BCIELTS_Facebook&utm_campaign=Webinars_2022&fbclid=IwAR1LEMElMXrJDCO8IXi3V34bzHBPiPhXTv7yraahX5QLeb7VM1rSFB2SVkc
+
+
+Last but not the least, this is my favorite channel: https://youtu.be/eay1wXKPtws
+
 * Markin Travel hosts free language lessons [Markin Travel Facebook](https://www.facebook.com/Markintravel-1282958235180408/)
 
