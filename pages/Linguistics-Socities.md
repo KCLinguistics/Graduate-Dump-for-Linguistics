@@ -11,3 +11,5 @@
 
 * [The Classical Association of Scotland](https://cas.wp.st-andrews.ac.uk/)
 
+* [University of Göttingen](https://listserv.gwdg.de/mailman/listinfo/linguistik)
+
