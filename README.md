@@ -1,8 +1,8 @@
 ## Table of Contents:
 
+## Name of the Contents in this Document:
 1. [Podcasts](pages/Podcasts.md) 
 2. [Linguistics on Social Media](pages/Linguistics-on-Social-Media.md)
-
 3. [Journals](pages/Journals.md)
 4. [How to mentor Graduate Students (Michigan Guide)](https://rackham.umich.edu/downloads/how-to-mentor-graduate-students.pdf)
 5. [LinguistList Graduate Programs with Funding Information](https://old.linguistlist.org/support/browse-support.cfm)
