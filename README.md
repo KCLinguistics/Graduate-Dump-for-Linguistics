@@ -1,6 +1,4 @@
 ## Table of Contents:
-
-## Name of the Contents in this Document:
 1. [Podcasts](pages/Podcasts.md) 
 2. [Linguistics on Social Media](pages/Linguistics-on-Social-Media.md)
 3. [Journals](pages/Journals.md)
