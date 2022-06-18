@@ -1,6 +1,6 @@
-# Graduate Dump for Linguistics
 
-## Name of the Contents in this Document:
+
+## Table of Contents:
 
 1. [Podcasts](pages/Podcasts.md) 
 2. [Linguistics on Social Media](pages/Linguistics-on-Social-Media.md)
