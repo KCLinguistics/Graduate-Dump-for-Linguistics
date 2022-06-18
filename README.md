@@ -1,5 +1,3 @@
-# Graduate Dump for Linguistics
-
 ## Table of Contents:
 
 1. [Podcasts](pages/Podcasts.md) 
