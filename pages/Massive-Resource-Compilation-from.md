@@ -27,8 +27,10 @@
 
 1. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
 
-1. [CCILE 2022
-Workshop on Cognitive and Cultural Influences on Language Emergence](https://youtube.com/channel/UCIXphOSx94qiTrBzkUNGdww)
+1. [CCILE 2022 Workshop on Cognitive and Cultural Influences on Language Emergence](https://youtube.com/channel/UCIXphOSx94qiTrBzkUNGdww)
+
+1. [Stanford Introduction to Linguistic Theories](https://plato.stanford.edu/entries/linguistics/)
+
 
 
 
