@@ -1,6 +1,5 @@
 <div id="header" align="center">
-    <a href="https://media.giphy.com/media/g7RUQDzOwozO66BmHj/giphy.gif">
-    </a>
+    <img src="https://media.giphy.com/media/g7RUQDzOwozO66BmHj/giphy.gif" width="200px">
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/kclinguistics/">
