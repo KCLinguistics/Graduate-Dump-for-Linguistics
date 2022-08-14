@@ -1,5 +1,10 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/g7RUQDzOwozO66BmHj/giphy.gif" width="200px">
+    <p> <img src="https://media.giphy.com/media/g7RUQDzOwozO66BmHj/giphy.gif" width="200px"><br>
+
+            Welcome to everything you need to get started with Linguistics!
+</p>
+
+    
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/kclinguistics/">
