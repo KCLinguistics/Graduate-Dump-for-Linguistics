@@ -1,3 +1,21 @@
+<div id="header" align="center">
+    <a href="https://media.giphy.com/media/g7RUQDzOwozO66BmHj/giphy.gif">
+    </a>
+</div>
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/kclinguistics/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/KCLinguistics">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href=https://discord.gg/BymxYAtg>
+        <img src="https://img.shields.io/badge/Discord-green?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge"/>
+    </a>
+</div>
+
+
+
 ## Table of Contents:
 1. [Podcasts](pages/Podcasts.md) 
 2. [Linguistics on Social Media](pages/Linguistics-on-Social-Media.md)
