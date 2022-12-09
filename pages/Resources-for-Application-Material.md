@@ -42,6 +42,6 @@ Public Datasets
 
     * https://guides.library.ucla.edu/psychology/data
 
-
+* [How-To Guides from McGill](https://www.mcgill.ca/caps/publications/guides)
 
 
