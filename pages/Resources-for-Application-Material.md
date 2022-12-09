@@ -43,5 +43,7 @@ Public Datasets
     * https://guides.library.ucla.edu/psychology/data
 
 * [How-To Guides from McGill](https://www.mcgill.ca/caps/publications/guides)
+* [How-To Guides from LABORATORIES
+ÉCOLE NORMALE SUPÉRIEURE - DÉPARTEMENT D'ÉTUDES COGNITIVES](https://cognition.ens.fr/en/admissions-scholarships-14195)
 
 
