@@ -1,6 +1,8 @@
 # Tech
 * [RStats workshop](https://r-openresearch-reproducibility.netlify.app/)
 
+* [psych.rstats.club](https://t.co/vODDzqaBCm)
+
 * [Python](https://ajstewartlang.github.io/open_intro_to_python/content.html)
 
 * [B4SS](https://www.youtube.com/channel/UC7A52Cd3yl7zqLmsb_ucdog)
