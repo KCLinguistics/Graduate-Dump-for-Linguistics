@@ -11,7 +11,7 @@
 1. [Sign Language](https://sites.google.com/view/adamcschembri/presentations?authuser=0) 
 
 1. [KnowNeuroPsychology Mailing list](https://easywp.us4.list-manage.com/subscribe?u=016e0eb7b02713dfd5a421e30&id=3b18e2d345)
-1. [Recorded lectures](https://knowneuropsych.org/past-lectures-page/)
+1. [KnowNeuroPsychology Recorded lectures](https://knowneuropsych.org/past-lectures-page/)
 
 1. [Introduction to Bayesian data Analysis](https://vasishth.github.io/IntroBayesSMLP2021/)
 
