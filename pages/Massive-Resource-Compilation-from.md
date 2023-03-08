@@ -31,7 +31,7 @@
 
 1. [Stanford Introduction to Linguistic Theories](https://plato.stanford.edu/entries/linguistics/)
 
-1. [Computational Social Sciences from UPenn](https://sicss.io/overview)
+1. [Computational Social Sciences SICSS](https://sicss.io/overview)
 
 
 
