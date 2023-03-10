@@ -8,3 +8,5 @@
 
 *[Cogmaster Internships](https://cogmaster.ens.psl.eu/fr/jobs)
 
+*[UC Davis](https://urapprojects.berkeley.edu/list.php)
+
