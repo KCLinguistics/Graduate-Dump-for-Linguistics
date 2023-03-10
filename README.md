@@ -38,5 +38,5 @@
 13. [Internships](pages/Internships.md)
 14. [Linguistics Socities](pages/Linguistics-Socities.md)
 15. [Contacts](pages/Contacts.md)
-16. [Max-Planck Cluser](pages/Max-Planck-Cluster.md)
+16. [Max-Planck Cluster](pages/Max-Planck-Cluster.md)
 
