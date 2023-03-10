@@ -14,3 +14,8 @@
 
 *[University of Washington](https://depts.washington.edu/owrc/graduate-students/open-writing-circles/)
 
+*[PhD Proposal Sample]
+
+*[KULeuven](https://hiw.kuleuven.be/en/research/phd/examples)
+*[York St John](https://www.yorksj.ac.uk/study/postgraduate/research/apply/examples-of-research-proposals/)
+*[Sheffield](https://www.sheffield.ac.uk/socstudies/phd/research-proposal)
