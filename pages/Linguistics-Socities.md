@@ -13,3 +13,5 @@
 
 * [University of Göttingen](https://listserv.gwdg.de/mailman/listinfo/linguistik)
 
+* [CLGG, University of Groningen](https://www.rug.nl/research/clcg/)
+
