@@ -19,5 +19,8 @@
 
 9. [L-EFT Leuven Embedded Figures Test](https://psytests.be/clinicians/test-centrum/l-eft.php)
 
+10. [MultiPic BCBL](https://www.bcbl.eu/databases/multipic)
+
+11. [The Brussels Artificial Character Sets](https://crcn.ulb.ac.be/lab_post/bacs/)
 
 
