@@ -25,5 +25,7 @@
 
 12. [THINGS object concept and object image database](https://osf.io/jum2f/)
 
+13. [The Chieti Affective Action Videos database](https://figshare.com/articles/dataset/CAAV_database/11215067)
+
 
 
