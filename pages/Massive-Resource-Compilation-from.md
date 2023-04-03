@@ -33,6 +33,9 @@
 
 1. [Computational Social Sciences SICSS](https://sicss.io/overview)
 
+1. [The Indian Sign Language Dictionary](https://indiansignlanguage.org/)
+
+
 
 
 
