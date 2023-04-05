@@ -27,7 +27,7 @@
 
 13. [The Chieti Affective Action Videos database](https://figshare.com/articles/dataset/CAAV_database/11215067)
 
-14. [The Wild Faces Database](WFD)(https://osf.io/6p4r7/)
+14. [The Wild Faces Database](https://osf.io/6p4r7/)
 
 
 
