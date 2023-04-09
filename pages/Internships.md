@@ -10,3 +10,5 @@
 
 *[UC Davis](https://urapprojects.berkeley.edu/list.php)
 
+*[CIMeC Trento](https://www.cimec.unitn.it/en/624/internship-projects)
+
