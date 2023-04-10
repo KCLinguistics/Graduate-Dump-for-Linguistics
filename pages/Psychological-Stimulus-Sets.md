@@ -15,7 +15,7 @@
 
 7. [The Evolved Person Perception & Cognition Lab](http://www.epaclab.com/face-stimuli)
 
-8. [Face Database: Massive Compilation from UPenn](https://libguides.princeton.edu/facedatabases)
+8. [Face Database: Massive Compilation from Princeton](https://libguides.princeton.edu/facedatabases)
 
 9. [L-EFT Leuven Embedded Figures Test](https://psytests.be/clinicians/test-centrum/l-eft.php)
 
