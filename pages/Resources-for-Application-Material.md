@@ -13,12 +13,11 @@
 * [Example Personal Statements I](https://docs.google.com/document/d/11vTrJDNSXJR0w7SYhz_nYJ8oc6OA6DXAhStWrLxfaQ8/edit)
 * [Example Personal Statements II](https://sites.lsa.umich.edu/splat-lab/faqs/)
 * [Example Personal Statements III](https://www.stonybrook.edu/commcms/psychology/_pdfs/undergraduate/sample%20personal%20statements.pdf)
-*[Example Personal Statements for PhD](https://drive.google.com/drive/u/0/mobile/folders/1qFBLNH3TAkOz7fIzXrfYxYV64D0OyEFS)
-*[Example Personal Statements IV](https://docs.google.com/document/d/106odkwHQy5G_MVvu24rFJDew-r6VSmdd4jQVstp7DmE/edit)
-* [Individualized Feedback on Personal Statements
-](https://www.asfp.io)
-* [Diversity, Inclusion, and Equity: Core Principles - 
-](https://aacu.org/making-excellence-inclusive)
+* [Example Personal Statements IV](https://docs.google.com/document/d/106odkwHQy5G_MVvu24rFJDew-r6VSmdd4jQVstp7DmE/edit)
+* [Example Personal Statements for PhD](https://drive.google.com/drive/u/0/mobile/folders/1qFBLNH3TAkOz7fIzXrfYxYV64D0OyEFS)
+
+* [Individualized Feedback on Personal Statements](https://www.asfp.io)
+* [Diversity, Inclusion, and Equity: Core Principles - ](https://aacu.org/making-excellence-inclusive)
 * [Getting into Psych Grad School – A Panel for BIPOC students](https://www.youtube.com/watch?v=DcC9GrWeamk&t=1s)
 
 * Example Diversity Statements
