@@ -15,3 +15,5 @@
 
 * [CLGG, University of Groningen](https://www.rug.nl/research/clcg/)
 
+* [Child Language Seminar, New Castle University](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CHILDLANGUAGESEMINAR)
+
