@@ -13,7 +13,7 @@
     <a href="https://twitter.com/KCLinguistics">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://discord.gg/BymxYAtg">
+    <a href="https://discord.com/invite/fUnRJ4YNUr?fbclid=IwAR1TTERsHU-_ZbME_CmQcET3yEnGESqbp2cpq1Nbbbob15LihlvTM4ImqIg">
         <img src="https://img.shields.io/badge/Discord-green?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge"/>
     </a>
 </div>
