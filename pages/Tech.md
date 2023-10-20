@@ -18,6 +18,10 @@
 
 *[Eye-Tracking, Università degli studi di Siena](https://sites.google.comunisi.it/eyetrackinglab-eng/workshops)
 
+# Generic MindMap
+
+[ARIADNE](https://igor-biodgps.github.io/ARIADNE/intro.html)
+
 # Experimental Software
 
 * [PsychoPy](https://www.psychopy.org/)
