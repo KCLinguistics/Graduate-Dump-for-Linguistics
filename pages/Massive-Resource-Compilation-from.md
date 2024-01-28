@@ -74,6 +74,18 @@
 
 
 
+________________________________________________
+
+# A few other resources on Public Datasets
+    * [List of Free Archival Psychology and Social Science Databases](https://docs.google.com/spreadsheets/d/1mi7SYR1cFy0djHWP0tg65dELLUj-YMTfR7YGB7-Uw1s/edit#gid=0)
+
+    * [APA](https://www.apa.org/research/responsible/data-links)
+
+    * [City of NY](https://opendata.cityofnewyork.us/)
+
+    * [UCLA Psychology](https://guides.library.ucla.edu/psychology/data)
+
+
 
 
 
