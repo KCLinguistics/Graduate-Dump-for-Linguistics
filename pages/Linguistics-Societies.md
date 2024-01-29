@@ -16,3 +16,4 @@
 
 * [Child Language Seminar, New Castle University](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CHILDLANGUAGESEMINAR)
 
+* [Socities and Groups on Linguistics, Biology, Cognitive Neuroscience and more](https://ocw.mit.edu/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/pages/related-resources/)
