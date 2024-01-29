@@ -45,11 +45,27 @@
 7. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
 
 
+# Neuroimaging Datasets
+
+1. [fMRI Pre-Registration Dataset](https://osf.io/maqwc)
+
+2. [Open Neuro: EEG + MEG+ PET nad more](https://openneuro.org/)
+
+3. [Neruovault: Processed Brain Images](https://neurovault.org/)
+
+
+
+
+
 # Neuro-Psychology
 
 1. [KnowNeuroPsychology Recorded lectures](https://knowneuropsych.org/past-lectures-page/)
 
 2. [KnowNeuroPsychology Mailing list](https://easywp.us4.list-manage.com/subscribe?u=016e0eb7b02713dfd5a421e30&id=3b18e2d345)
+
+# Methods in Pyschology
+
+1. [BC Campus Research Methods in Psychology](https://opentextbc.ca/researchmethods/chapter/experimental-design/)
 
 
 # Sign Language
@@ -62,7 +78,31 @@
 
 # Statistics
 
-1.  [Introduction to Bayesian data Analysis](https://vasishth.github.io/IntroBayesSMLP2021/)
+1. [B4SS](https://www.youtube.com/channel/UC7A52Cd3yl7zqLmsb_ucdog)
+
+2. [Cleaning your code](https://larremorelab.github.io/slides/)
+
+3. [Introduction to Bayesian data Analysis](https://vasishth.github.io/IntroBayesSMLP2021/)
+
+4. [psych.rstats.club](https://t.co/vODDzqaBCm)
+
+5. [RStats workshop](https://r-openresearch-reproducibility.netlify.app/)
+
+
+6. [SeeingTheory](https://seeing-theory.brown.edu/index.html)
+
+7. [Statistics](https://www.youtube.com/c/StatisticsofDOOM)
+
+
+8. [University fo Washington R Course](https://adamkucz.github.io/psych548/)
+
+9. [Word Acquistion Graph for Children](https://wordbank.stanford.edu/data?name=item_trajectories)
+
+
+
+# Natural Language Processing
+
+1. [SNUFA 2023 Workshop](https://youtube.com/playlist?list=PL09WqqDbQWHHPPOpmHezdxbuQqow6EarR&si=u-AQhVbec20SneU4)
 
 
 # Language Society Lectures and Blogs
