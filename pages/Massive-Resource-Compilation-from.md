@@ -14,6 +14,8 @@
 
 4. [MIT Cognitive Neuroscience](https://youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP)
 
+5. [MIT COgNet](https://direct.mit.edu/pages/cognet)
+
 # Corpus Linguistics
 
 1. [Corpus linguistics from University of Lancaster](http://cass.lancs.ac.uk/celebrating-the-written-bnc2014-lancaster-castle-event/)
