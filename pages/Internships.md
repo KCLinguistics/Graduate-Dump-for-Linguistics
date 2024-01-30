@@ -12,6 +12,8 @@
 
 * [IRCCS Centro San Giovanni di Dio Fatebenefratelli, Brescia, Italy](http://www.cognitiveneuroscience.it/2020/04/20/partecipa-ai-nostri-studi/?lang=en)
 
+* [NICT Japan](https://cinet.jp/english/pi/)
+
 * [LABORATORIES ÉCOLE NORMALE SUPÉRIEURE - DÉPARTEMENT D'ÉTUDES COGNITIVES](https://cognition.ens.fr/en/jobs?keys=&page=1)
 
 * [UC Davis](https://urapprojects.berkeley.edu/list.php)
