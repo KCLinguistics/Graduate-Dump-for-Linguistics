@@ -16,6 +16,8 @@
 
 5. [MIT COgNet](https://direct.mit.edu/pages/cognet)
 
+6. [Simons Foundation: Online Resources for Systems and Computational Neuroscience](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/)
+
 # Corpus Linguistics
 
 1. [Corpus linguistics from University of Lancaster](http://cass.lancs.ac.uk/celebrating-the-written-bnc2014-lancaster-castle-event/)
