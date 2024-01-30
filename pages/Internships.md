@@ -1,6 +1,7 @@
 # Internships
 
 
+* [Allen Institute, WA, USA](https://alleninstitute.org/careers/internships-and-postbac/)
 
 * [CIMeC Trento](https://www.cimec.unitn.it/en/624/internship-projects)
 
