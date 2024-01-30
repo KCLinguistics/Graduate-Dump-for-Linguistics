@@ -26,6 +26,8 @@
 
 # Electrophysiology
 
+[various comp neuro / MEEG / LFP short courses and summer schools maintained by @nschawor on X](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364)
+
 
 [BrainStorm](https://neuroimage.usc.edu/brainstorm/)
 
