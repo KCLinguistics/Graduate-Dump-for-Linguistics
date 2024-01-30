@@ -14,6 +14,9 @@
 
 # By Mentors
 
+[LSA Mentoring Initiative](https://www.linguisticsociety.org/content/lsa-mentoring-initiative)
+
 [Stanford Neuro Application Assistance Program](https://www.stanfordaap.com/)
 
 [Simply Neuroscience : Action Potential](https://www.simplyneuroscience.org/advising-program)
+
