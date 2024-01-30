@@ -10,7 +10,7 @@
 
 2. [CCILE 2022 Workshop on Cognitive and Cultural Influences on Language Emergence](https://youtube.com/channel/UCIXphOSx94qiTrBzkUNGdww)
 
-3. [Computational and Clinical Linguistics](https://aclanthology.org/venues/clpsych/)
+3. [Computational, Cognitive and Clinical Linguistics](https://aclanthology.org/venues/clpsych/)
 
 4. [MIT Cognitive Neuroscience](https://youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP)
 
@@ -66,6 +66,8 @@
 # Methods in Pyschology
 
 1. [BC Campus Research Methods in Psychology](https://opentextbc.ca/researchmethods/chapter/experimental-design/)
+
+2. [Carnegie Mellon University: Introduction to Psychology](https://oli.cmu.edu/jcourse/lms/students/syllabus.do?section=d5c6b38a0a0001dc7aeeec7f117f5327)
 
 
 # Sign Language
