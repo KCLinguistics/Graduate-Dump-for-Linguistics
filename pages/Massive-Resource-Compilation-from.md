@@ -14,7 +14,7 @@
 
 4. [MIT Cognitive Neuroscience](https://youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP)
 
-5. [MIT COgNet](https://direct.mit.edu/pages/cognet)
+5. [MIT CogNet](https://direct.mit.edu/pages/cognet)
 
 6. [Simons Foundation: Online Resources for Systems and Computational Neuroscience](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/)
 
@@ -40,13 +40,17 @@
 
 3. [fMRI for Newbies](https://www.fmri4newbies.com/)
 
-4. [OpenNeuro](https://openneuro.org/)
+4. [LayerfMRI](https://www.youtube.com/@layerfmri/featured)
 
-5. [Neuroanatomy and brain](https://neuroanatomy.ca/)
+5. [Meta-resource on learning fMRI from Jonathan Peelle](http://jonathanpeelle.net/learning-mri) 
 
-6. [Meta-resource on learning fMRI from Jonathan Peelle](http://jonathanpeelle.net/learning-mri)
+6. [Neuroanatomy and brain](https://neuroanatomy.ca/)
 
 7. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
+
+8. [OpenNeuro](https://openneuro.org/)
+
+
 
 
 # Neuroimaging Datasets
