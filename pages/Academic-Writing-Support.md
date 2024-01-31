@@ -10,6 +10,11 @@
 
 * [Personal Resources](https://drive.google.com/drive/folders/1XhSR29AZSxT0eg204RHexWOQ9vmE0WVx?usp=sharing)
 
+
+# Meta Analysis
+
+* (PIM CUIJPERS Blog + Free Tool)(https://www.pimcuijpers.com/blog/meta-analysis/)
+
 # Writing Groups from Universities
 
 * [Dissertation Writing Group at Grad School, Miami](https://www.grad.miami.edu/about/grad-events-and-calendar/dissertation-writing-group/index.html)
