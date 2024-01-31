@@ -12,6 +12,8 @@
 
 3. [Computational, Cognitive and Clinical Linguistics](https://aclanthology.org/venues/clpsych/)
 
+4. [Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/~eero/math-tools/)
+
 4. [MIT Cognitive Neuroscience](https://youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP)
 
 5. [MIT CogNet](https://direct.mit.edu/pages/cognet)
