@@ -13,7 +13,7 @@
 
 # Meta Analysis
 
-* (PIM CUIJPERS Blog + Free Tool)(https://www.pimcuijpers.com/blog/meta-analysis/)
+* [PIM CUIJPERS Blog + Free Tool](https://www.pimcuijpers.com/blog/meta-analysis/)
 
 # Writing Groups from Universities
 
