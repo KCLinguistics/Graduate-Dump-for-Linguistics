@@ -17,7 +17,7 @@
 
 * [Nipype](https://miykael.github.io/nipype-beginner-s-guide/installation.html?highlight=graphviz#install-nipype-and-other-python-dependencies)
 
-* [NITRC](https://www.nitrc.org/)
+* [NITRC: Neuroimaging Tools and Resources Collaboratory](https://www.nitrc.org/)
 
 * [PyCortex](https://gallantlab.org/pycortex/)
 
