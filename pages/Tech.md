@@ -11,9 +11,13 @@
 
 * [Mango](http://ric.uthscsa.edu/mango/)
 
+* [Neuroimaging Software: Artifacts, Functional Connectivity, ROIs](https://web.mit.edu/swg/software.htm)
+
 * [Neuromap for Brain Map Comparison](https://netneurolab.github.io/neuromaps/)
 
 * [Nipype](https://miykael.github.io/nipype-beginner-s-guide/installation.html?highlight=graphviz#install-nipype-and-other-python-dependencies)
+
+* [NITRC](https://www.nitrc.org/)
 
 * [PyCortex](https://gallantlab.org/pycortex/)
 
