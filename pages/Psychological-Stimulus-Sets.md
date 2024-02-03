@@ -24,7 +24,7 @@ Please be aware of copyright laws in your country or institution as you proceed 
 
 3. [The Portsmouth dynamic spontaneous tears database (PDSTD)](https://osf.io/uyjeg/?view_only=24474ec8d75949ccb9a8243651db0abf)
 
-4. [Optical Illusions from Prof. Akiyoshi Kitaoka | Check for Copyright Materials](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
+4. [Optical Illusions from Prof. Akiyoshi Kitaoka](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
 
 # Faces
