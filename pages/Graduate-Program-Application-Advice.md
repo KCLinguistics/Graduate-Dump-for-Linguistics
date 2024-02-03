@@ -16,6 +16,8 @@
 
 [LSA Mentoring Initiative](https://www.linguisticsociety.org/content/lsa-mentoring-initiative)
 
+[Prayogshala](https://www.monkprayogshala.in/)
+
 [Stanford Neuro Application Assistance Program](https://www.stanfordaap.com/)
 
 [Simply Neuroscience : Action Potential](https://www.simplyneuroscience.org/advising-program)
