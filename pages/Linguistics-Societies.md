@@ -6,7 +6,7 @@
 
 * [Donders Lectures](https://mailman.science.ru.nl/mailman/listinfo/donders-lectures)
 
-* [Linguistics in Verona](https://www.facebook.com/LinguisticsVerona)
+* [Linguistics in Verona LiVe](https://www.facebook.com/LinguisticsVerona)
 
 * [The Classical Association of Scotland](https://cas.wp.st-andrews.ac.uk/)
 
