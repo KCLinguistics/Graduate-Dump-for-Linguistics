@@ -23,24 +23,61 @@
 
 
 ## Table of Contents:
-1. [Podcasts](pages/Podcasts.md) 
-2. [Linguistics on Social Media](pages/Linguistics-on-Social-Media.md)
-3. [Journals](pages/Journals.md)
-4. [How to mentor Graduate Students (Michigan Guide)](https://rackham.umich.edu/downloads/how-to-mentor-graduate-students.pdf)
-5. [LinguistList Graduate Programs with Funding Information](https://old.linguistlist.org/support/browse-support.cfm)
-6. [Resources for Application Material](pages/Resources-for-Application-Material.md)
-7. [Language Learning Resources](pages/Language-Learning-Resources.md)
-8. [Tech](pages/Tech.md)
-9. [Academic Writing Support](pages/Academic-Writing-Support.md)
-10. [Graduate Program Application Advice](pages/Graduate-Program-Application-Advice.md)
-11. [Facebook Groups for Linguistics](pages/Facebook-Groups-for-Linguistics.md)
-12. [Massive Resource Compilation from](pages/Massive-Resource-Compilation-from.md)
-13. [Internships](pages/Internships.md)
-14. [Linguistics Societies](pages/Linguistics-Societies.md)
-15. [Contacts](pages/Contacts.md)
-16. [Max-Planck Cluster](pages/Max-Planck-Cluster.md)
-17. [Psychological Stimulus Sets](pages/Psychological-Stimulus-Sets.md)
-18. [Doctoral Funding](pages/Doctoral-Funding.md)
+
+# Social Media
+
+[Facebook Groups for Linguistics](pages/Facebook-Groups-for-Linguistics.md)
+
+[Linguistics on Social Media](pages/Linguistics-on-Social-Media.md)
+
+[Podcasts](pages/Podcasts.md) 
+
+# Graduate Application and Mentorship
+
+[Academic Writing Support](pages/Academic-Writing-Support.md)
+
+[Graduate Program Application Advice](pages/Graduate-Program-Application-Advice.md)
+
+[How to mentor Graduate Students (Michigan Guide)](https://rackham.umich.edu/downloads/how-to-mentor-graduate-students.pdf)
+
+[Resources for Application Material](pages/Resources-for-Application-Material.md)
+
+# Academic Journal
+
+[Journals](pages/Journals.md)
+
+# (Human) Language Resources
+
+[Language Learning Resources](pages/Language-Learning-Resources.md)
+
+# Tech Resources
+[Tech](pages/Tech.md)
+
+# Funding
+[Doctoral Funding](pages/Doctoral-Funding.md)
+
+[LinguistList Graduate Programs with Funding Information](https://old.linguistlist.org/support/browse-support.cfm)
+
+# Study Materials and Resources for Learning
+ 
+[Massive Resource Compilation from](pages/Massive-Resource-Compilation-from.md)
+
+
+# Societies 
+[Contacts](pages/Contacts.md)
+
+[Linguistics Societies](pages/Linguistics-Societies.md)
+
+[Max-Planck Cluster](pages/Max-Planck-Cluster.md)
+
+# Internship Oppurtunities
+
+[Internships](pages/Internships.md)
+
+# Stimuli Sets
+
+[Psychological Stimulus Sets](pages/Psychological-Stimulus-Sets.md)
+
 
 
 
