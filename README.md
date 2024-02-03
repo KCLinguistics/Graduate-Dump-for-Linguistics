@@ -36,7 +36,7 @@
 11. [Facebook Groups for Linguistics](pages/Facebook-Groups-for-Linguistics.md)
 12. [Massive Resource Compilation from](pages/Massive-Resource-Compilation-from.md)
 13. [Internships](pages/Internships.md)
-14. [Linguistics Societies](pages/Linguistics-Socities.md)
+14. [Linguistics Societies](pages/Linguistics-Societies.md)
 15. [Contacts](pages/Contacts.md)
 16. [Max-Planck Cluster](pages/Max-Planck-Cluster.md)
 17. [Psychological Stimulus Sets](pages/Psychological-Stimulus-Sets.md)
