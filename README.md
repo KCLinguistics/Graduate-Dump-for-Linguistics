@@ -50,8 +50,9 @@
 
 [Language Learning Resources](pages/Language-Learning-Resources.md)
 
-# Tech Resources
+# Tech Resources 
 [Tech](pages/Tech.md)
+[AI](pages/AI.md)
 
 # Funding
 [Doctoral Funding](pages/Doctoral-Funding.md)
