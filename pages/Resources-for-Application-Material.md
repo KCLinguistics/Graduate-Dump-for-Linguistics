@@ -2,7 +2,7 @@
 
 # CV Resources
 
-* [UNC Resume and Email Guide](https://careers.unc.edu/students/resumes-and-letters)
+* [UNC Resume and Email Guide](https://careers.unc.edu/students/step-3-gain-experience/resumes-and-letters/resumes-and-cvs/)
 * [Contact your potential recommenders with an email, you will find a format here:](https://www.youtube.com/watch?v=4vub1rBaDoI)
 * [Psychin’ Out Resource Hub](https://drive.google.com/drive/folders/1FGf4mFYkAcc8xg6JpA7vGCm8P-BWed_h)
 * [CV's Dos and Don’ts](https://www.apa.org/gradpsych/2003/09/cv)
