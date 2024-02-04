@@ -52,6 +52,7 @@
 
 # Tech Resources 
 [Tech](pages/Tech.md)
+
 [AI](pages/AI.md)
 
 # Funding

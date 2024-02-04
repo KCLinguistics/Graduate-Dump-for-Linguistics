@@ -3,43 +3,43 @@
 
 # Language Model
 
-[ChatGPT](https://chat.openai.com)
-[Perplexity](https://www.perplexity.ai/)
+1. [ChatGPT](https://chat.openai.com)
+2. [Perplexity](https://www.perplexity.ai/)
 
 # Text to Image and Video
 
-[Midjourney](https://www.midjourney.com/)
-[Runway](https://www.midjourney.com/)
+1. [Midjourney](https://www.midjourney.com/)
+2. [Runway](https://www.midjourney.com/)
 
 # Text to Speech, Voice Cloning, and Noice Reduction
 
-[ElevenLabs](https://elevenlabs.io/)
-[Krisp](https://krisp.ai/)
-[Voicemod](https://www.voicemod.net/)
-[Whisper](https://github.com/openai/whisper)
+1. [ElevenLabs](https://elevenlabs.io/)
+2. [Krisp](https://krisp.ai/)
+3. [Voicemod](https://www.voicemod.net/)
+3. [Whisper](https://github.com/openai/whisper)
 
 # Task Manager 
 
-[AgentGPT](https://agentgpt.reworkd.ai/)
-[BabyAGI](https://github.com/yoheinakajima/babyagi)
-[Claude](https://claude.ai/)
+1. [AgentGPT](https://agentgpt.reworkd.ai/)
+2. [BabyAGI](https://github.com/yoheinakajima/babyagi)
+3. [Claude](https://claude.ai/)
 
 
 # Composing Text and More Accuracy
 
-[Bard](https://bard.google.com/chat)
-[CopyAI](https://www.copy.ai/)
-[Grammarly](https://www.grammarly.com/ai-writing-tools)
-[Jasper](https://www.jasper.ai/)
-[Writesonic](https://writesonic.com/)
+1. [Bard](https://bard.google.com/chat)
+2. [CopyAI](https://www.copy.ai/)
+3. [Grammarly](https://www.grammarly.com/ai-writing-tools)
+4. [Jasper](https://www.jasper.ai/)
+5. [Writesonic](https://writesonic.com/)
 
 
 # Summerization
-[Notion AI](https://www.notion.so/product/ai)
+1. [Notion AI](https://www.notion.so/product/ai)
 
 # Using Public Datasets
-[Llama 2](https://ai.meta.com/llama/)
+1. [Llama 2](https://ai.meta.com/llama/)
 
 # Automation
-[Zapier](https://zapier.com/ai)
+1. [Zapier](https://zapier.com/ai)
 
