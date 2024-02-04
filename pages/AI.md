@@ -11,7 +11,7 @@
 1. [Midjourney](https://www.midjourney.com/)
 2. [Runway](https://www.midjourney.com/)
 
-# Text to Speech, Voice Cloning, and Noice Reduction
+# Text to Speech, Voice Cloning, and Noise Reduction
 
 1. [ElevenLabs](https://elevenlabs.io/)
 2. [Krisp](https://krisp.ai/)
