@@ -9,7 +9,7 @@
 # Text to Image and Video
 
 1. [Midjourney](https://www.midjourney.com/)
-2. [Runway](https://www.midjourney.com/)
+2. [Runway](https://runwayml.com/)
 
 # Text to Speech, Voice Cloning, and Noise Reduction
 
