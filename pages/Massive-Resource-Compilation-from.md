@@ -69,9 +69,11 @@
 
 # Neuro-Psychology
 
-1. [KnowNeuroPsychology Recorded lectures](https://knowneuropsych.org/past-lectures-page/)
+1. [CSTAR Lecture Series](https://cstar.sc.edu/lecture-series/)
 
-2. [KnowNeuroPsychology Mailing list](https://easywp.us4.list-manage.com/subscribe?u=016e0eb7b02713dfd5a421e30&id=3b18e2d345)
+2. [KnowNeuroPsychology Recorded lectures](https://knowneuropsych.org/past-lectures-page/)
+
+3. [KnowNeuroPsychology Mailing list](https://easywp.us4.list-manage.com/subscribe?u=016e0eb7b02713dfd5a421e30&id=3b18e2d345)
 
 # Methods in Pyschology
 
