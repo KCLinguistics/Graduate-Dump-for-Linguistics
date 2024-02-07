@@ -45,7 +45,9 @@
 
 [Letswave7](https://letswave.cn/)
 
-[MNE](https://mne.tools/stable/index.html)
+[MNE: EEG & MEG](https://mne.tools/stable/index.html)
+
+[Nilearn: GLN fMRI](https://nilearn.github.io/stable/index.html)
 
 [Rave : No Programming](https://openwetware.org/wiki/RAVE)
 
