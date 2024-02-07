@@ -28,7 +28,7 @@
 * [TrackVis](https://trackvis.org/)
 
 
-# Electrophysiology
+# Neuroimaging and Electrophysiology
 
 [various comp neuro / MEEG / LFP short courses and summer schools maintained by @nschawor on X](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364)
 
@@ -47,7 +47,7 @@
 
 [MNE: EEG & MEG](https://mne.tools/stable/index.html)
 
-[Nilearn: GLN fMRI](https://nilearn.github.io/stable/index.html)
+[Nilearn: GLM fMRI](https://nilearn.github.io/stable/index.html)
 
 [Rave : No Programming](https://openwetware.org/wiki/RAVE)
 
@@ -64,7 +64,7 @@
 
 
 # Experimental Software
-
+* [OpenSesame](https://osdoc.cogsci.nl/)
 * [PsychoPy](https://www.psychopy.org/)
 * [Labvanced](https://www.labvanced.com/index.html)
 * [Google SketchUp](https://www.sketchup.com/)
