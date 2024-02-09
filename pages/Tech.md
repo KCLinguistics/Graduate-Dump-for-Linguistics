@@ -8,7 +8,7 @@
 * [Julich Brain Atlas](https://julich-brain-atlas.de/atlas)
 
 
-- * MRI Viewers * - 
+- * MRI Viewers 
 * [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation/Windows)
 * [Mango](http://ric.uthscsa.edu/mango/)
 * [MRIcron](https://www.nitrc.org/projects/mricron)
