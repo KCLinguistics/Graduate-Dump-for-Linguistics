@@ -5,15 +5,20 @@
 
 * [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/install_instructs/index.html)
 
-* [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation/Windows)
-
 * [Julich Brain Atlas](https://julich-brain-atlas.de/atlas)
 
+
+- * MRI Viewers * - 
+* [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation/Windows)
 * [Mango](http://ric.uthscsa.edu/mango/)
+* [MRIcron](https://www.nitrc.org/projects/mricron)
+
 
 * [Neuroimaging Software: Artifacts, Functional Connectivity, ROIs](https://web.mit.edu/swg/software.htm)
 
 * [Neuromap for Brain Map Comparison](https://netneurolab.github.io/neuromaps/)
+
+
 
 * [Nipype](https://miykael.github.io/nipype-beginner-s-guide/installation.html?highlight=graphviz#install-nipype-and-other-python-dependencies)
 
