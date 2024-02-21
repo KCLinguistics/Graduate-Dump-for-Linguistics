@@ -8,8 +8,7 @@
 1. [Language City](https://www.youtube.com/channel/UCeGGVbpugxZGDc7dnAtAgQw)
 1. [The Linguistics Channel](https://www.youtube.com/channel/UCxcu3XYwahHVs_3R_WGRGDQ)
 1. [Martin Hilpert](https://www.youtube.com/user/carlahilpert)
-1. [The Virtual Linguistics Campus
-The Virtual Linguistics Campus](https://www.youtube.com/user/LinguisticsMarburg)
+1. [The Virtual Linguistics Campus](https://www.youtube.com/user/LinguisticsMarburg)
 1. [NativLang](https://www.youtube.com/user/NativLang)
 1. [Alexander Lasch](https://www.youtube.com/channel/UCnSqvWH1_wqTB9I_d41G2xg)
 1. [The Ling Space](https://www.youtube.com/user/thelingspace)

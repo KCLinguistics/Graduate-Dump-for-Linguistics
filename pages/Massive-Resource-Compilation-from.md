@@ -38,19 +38,21 @@
 
 1. [Allen Brain Map](https://portal.brain-map.org/)
 
-2. [fMRI Course - Summer 2019](https://fmrif.nimh.nih.gov/public/fmri-course/fmri-course-summer-2019)
+2. [Clinical Neuroanatomy Seminar](https://www.stephanieforkel.com/cnseminars)
 
-3. [fMRI for Newbies](https://www.fmri4newbies.com/)
+3. [fMRI Course - Summer 2019](https://fmrif.nimh.nih.gov/public/fmri-course/fmri-course-summer-2019)
 
-4. [LayerfMRI](https://www.youtube.com/@layerfmri/featured)
+4. [fMRI for Newbies](https://www.fmri4newbies.com/)
 
-5. [Meta-resource on learning fMRI from Jonathan Peelle](http://jonathanpeelle.net/learning-mri) 
+5. [LayerfMRI](https://www.youtube.com/@layerfmri/featured)
 
-6. [Neuroanatomy and brain](https://neuroanatomy.ca/)
+6. [Meta-resource on learning fMRI from Jonathan Peelle](http://jonathanpeelle.net/learning-mri) 
 
-7. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
+7. [Neuroanatomy and brain](https://neuroanatomy.ca/)
 
-8. [OpenNeuro](https://openneuro.org/)
+8. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
+
+9. [OpenNeuro](https://openneuro.org/)
 
 
 
