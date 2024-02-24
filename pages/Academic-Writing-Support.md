@@ -19,6 +19,8 @@
 
 * [Dissertation Writing Group at Grad School, Miami](https://www.grad.miami.edu/about/grad-events-and-calendar/dissertation-writing-group/index.html)
 
+* [IITGandhinagar](https://writingstudio.iitgn.ac.in/)
+
 * [University of  Chicago-Illinois](https://writersworkshop.illinois.edu/services/writing-groups-and-retreats/)
 
 * [University of Michigan writing and teaching support group](https://lib.umich.edu/visit-and-study/creation-and-learning-spaces/scholarspace)
