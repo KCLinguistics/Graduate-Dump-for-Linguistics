@@ -77,6 +77,9 @@
 
 3. [KnowNeuroPsychology Mailing list](https://easywp.us4.list-manage.com/subscribe?u=016e0eb7b02713dfd5a421e30&id=3b18e2d345)
 
+4. [University of Parma](https://www.youtube.com/@neurosciencehumanities488/videos)
+
+
 # Methods in Pyschology
 
 1. [BC Campus Research Methods in Psychology](https://opentextbc.ca/researchmethods/chapter/experimental-design/)
