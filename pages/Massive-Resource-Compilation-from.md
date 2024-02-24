@@ -68,7 +68,6 @@
 
 
 
-
 # Neuro-Psychology
 
 1. [CSTAR Lecture Series](https://cstar.sc.edu/lecture-series/)
