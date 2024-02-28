@@ -78,7 +78,10 @@
 
 # Stimuli Sets
 
+[Experiment Paradigms](pages/Experiment-Paradigms.md)
+
 [Psychological Stimulus Sets](pages/Psychological-Stimulus-Sets.md)
+
 
 
 
