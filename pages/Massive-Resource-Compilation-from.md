@@ -52,7 +52,7 @@
 
 8. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
 
-9. [OpenNeuro](https://openneuro.org/)
+9. [SPM Workshops](https://www.fil.ion.ucl.ac.uk/spm/course/#slides)
 
 
 
@@ -83,7 +83,7 @@
 
 1. [BC Campus Research Methods in Psychology](https://opentextbc.ca/researchmethods/chapter/experimental-design/)
 
-2. [Carnegie Mellon University: Introduction to Psychology](https://oli.cmu.edu/jcourse/lms/students/syllabus.do?section=d5c6b38a0a0001dc7aeeec7f117f5327)
+2. [Carnegie Mellon University: Introduction to Psychology](https://oli.cmu.edu/courses/introduction-to-psychology-open-free/)
 
 
 # Sign Language
