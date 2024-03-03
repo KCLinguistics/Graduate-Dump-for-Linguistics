@@ -40,19 +40,21 @@
 
 2. [Clinical Neuroanatomy Seminar](https://www.stephanieforkel.com/cnseminars)
 
-3. [fMRI Course - Summer 2019](https://fmrif.nimh.nih.gov/public/fmri-course/fmri-course-summer-2019)
+3. [fMRI Bootcamp from MIT](https://cbmm.mit.edu/learning-hub/tutorial/fmri-bootcamp)
 
-4. [fMRI for Newbies](https://www.fmri4newbies.com/)
+4. [fMRI Course - Summer 2019](https://fmrif.nimh.nih.gov/public/fmri-course/fmri-course-summer-2019)
 
-5. [LayerfMRI](https://www.youtube.com/@layerfmri/featured)
+5. [fMRI for Newbies](https://www.fmri4newbies.com/)
 
-6. [Meta-resource on learning fMRI from Jonathan Peelle](http://jonathanpeelle.net/learning-mri) 
+6. [LayerfMRI](https://www.youtube.com/@layerfmri/featured)
 
-7. [Neuroanatomy and brain](https://neuroanatomy.ca/)
+7. [Meta-resource on learning fMRI from Jonathan Peelle](http://jonathanpeelle.net/learning-mri) 
 
-8. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
+8. [Neuroanatomy and brain](https://neuroanatomy.ca/)
 
-9. [SPM Workshops](https://www.fil.ion.ucl.ac.uk/spm/course/#slides)
+9. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
+
+10. [SPM Workshops](https://www.fil.ion.ucl.ac.uk/spm/course/#slides)
 
 
 
