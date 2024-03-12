@@ -3,13 +3,16 @@
 
 # Language Model
 
-1. [ChatGPT](https://chat.openai.com)
-2. [Perplexity](https://www.perplexity.ai/)
+1. [Bard/Gemini](https://gemini.google.com/)
+2. [ChatGPT](https://chat.openai.com)
+3. [Copilot](https://copilot.microsoft.com/)
+4. [Perplexity](https://www.perplexity.ai/)
 
 # Text to Image and Video
 
 1. [Midjourney](https://www.midjourney.com/)
 2. [Runway](https://runwayml.com/)
+
 
 # Text to Speech, Voice Cloning, and Noise Reduction
 
@@ -41,5 +44,7 @@
 1. [Llama 2](https://ai.meta.com/llama/)
 
 # Automation
-1. [Zapier](https://zapier.com/ai)
+1. [Compose AI](https://www.compose.ai/)
+2. [Zapier](https://zapier.com/ai)
+
 

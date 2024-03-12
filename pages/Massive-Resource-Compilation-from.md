@@ -74,11 +74,13 @@
 
 1. [CSTAR Lecture Series](https://cstar.sc.edu/lecture-series/)
 
-2. [KnowNeuroPsychology Recorded lectures](https://knowneuropsych.org/past-lectures-page/)
+2. [ENIGMA-U](https://www.youtube.com/@enigma-u/playlists)
 
-3. [KnowNeuroPsychology Mailing list](https://easywp.us4.list-manage.com/subscribe?u=016e0eb7b02713dfd5a421e30&id=3b18e2d345)
+3. [KnowNeuroPsychology Recorded lectures](https://knowneuropsych.org/past-lectures-page/)
 
-4. [University of Parma](https://www.youtube.com/@neurosciencehumanities488/videos)
+4. [KnowNeuroPsychology Mailing list](https://easywp.us4.list-manage.com/subscribe?u=016e0eb7b02713dfd5a421e30&id=3b18e2d345)
+
+5. [University of Parma](https://www.youtube.com/@neurosciencehumanities488/videos)
 
 
 # Methods in Pyschology
@@ -144,7 +146,7 @@ ________________________________________________
 
 3. [City of NY](https://opendata.cityofnewyork.us/)
 
-4. [Kaggle](https://www.kaggle.com/datasets)
+4. [Kaggle](https://www.kaggle.com/datasets) 
 
 5. [UCLA Psychology](https://guides.library.ucla.edu/psychology/data)
 
