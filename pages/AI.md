@@ -40,8 +40,10 @@
 # Summerization
 1. [Notion AI](https://www.notion.so/product/ai)
 
-# Using Public Datasets
-1. [Llama 2](https://ai.meta.com/llama/)
+# Coding
+1. [Blackbox](https://www.useblackbox.io/)
+2. [GitHub Copilot](https://copilot.github.com/)
+3. [Llama 2](https://ai.meta.com/llama/)
 
 # Automation
 1. [Compose AI](https://www.compose.ai/)
