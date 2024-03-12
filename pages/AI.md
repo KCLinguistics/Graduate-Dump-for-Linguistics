@@ -45,6 +45,10 @@
 2. [GitHub Copilot](https://copilot.github.com/)
 3. [Llama 2](https://ai.meta.com/llama/)
 
+# PDF Reader
+1. [Humata AI](https://www.humata.ai/)
+2. [Sider AI](https://sider.ai/)
+
 # Automation
 1. [Compose AI](https://www.compose.ai/)
 2. [Zapier](https://zapier.com/ai)
