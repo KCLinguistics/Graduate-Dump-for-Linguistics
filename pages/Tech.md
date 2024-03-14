@@ -79,6 +79,11 @@ ____________________________________
 # Generic MindMap
 
 [ARIADNE](https://igor-biodgps.github.io/ARIADNE/intro.html)
+[Miro](https://miro.com/)
+
+# Build Games and Animations
+[Scratch](https://scratch.mit.edu/)
+
 
 # Data Visualization
 [Floursih Studio](https://flourish.studio/examples/)
