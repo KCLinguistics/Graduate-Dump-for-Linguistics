@@ -48,13 +48,15 @@
 
 6. [LayerfMRI](https://www.youtube.com/@layerfmri/featured)
 
-7. [Meta-resource on learning fMRI from Jonathan Peelle](http://jonathanpeelle.net/learning-mri) 
+7. [Matthew Brett's Tutorial on Smoothing for Image Preprocessing](https://matthew-brett.github.io/teaching/smoothing_intro.html)
 
-8. [Neuroanatomy and brain](https://neuroanatomy.ca/)
+8. [Meta-resource on learning fMRI from Jonathan Peelle](http://jonathanpeelle.net/learning-mri) 
 
-9. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
+9. [Neuroanatomy and brain](https://neuroanatomy.ca/)
 
-10. [SPM Workshops](https://www.fil.ion.ucl.ac.uk/spm/course/#slides)
+10. [Neuroimaging Tools and Resources](https://www.nitrc.org/projects/bst)
+
+11. [SPM Workshops](https://www.fil.ion.ucl.ac.uk/spm/course/#slides)
 
 
 
