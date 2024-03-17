@@ -102,6 +102,9 @@ ____________________________________
 
 * [LaTex](https://drive.google.com/file/d/1X7pp1FXT53Zk-VDWAXggUM7uWjd7VMouview?s=08)
 
+# Scientific Diagrams
+* [Chemix](https://chemix.org/)
+
 
 
 # Programming
