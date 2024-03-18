@@ -37,6 +37,7 @@ ____________________________________
 
 [various comp neuro / MEEG / LFP short courses and summer schools maintained by @nschawor on X](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364)
 
+[Automagic's No Programing Preprocessing EEG dataset](https://github.com/methlabUZH/automagic)
 
 [BrainStorm](https://neuroimage.usc.edu/brainstorm/)
 
