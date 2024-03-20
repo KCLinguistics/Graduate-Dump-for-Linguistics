@@ -37,8 +37,10 @@
 5. [Writesonic](https://writesonic.com/)
 
 
-# Summerization
+# Summerization & Literature Maps
 1. [Notion AI](https://www.notion.so/product/ai)
+2. [Litmaps](https://www.litmaps.com/)
+
 
 # Coding
 1. [Blackbox](https://www.useblackbox.io/)
