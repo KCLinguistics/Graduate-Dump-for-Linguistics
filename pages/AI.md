@@ -54,5 +54,6 @@
 # Automation
 1. [Compose AI](https://www.compose.ai/)
 2. [Zapier](https://zapier.com/ai)
+3. [AutoGen: Build an Agent](https://microsoft.github.io/autogen/)
 
 
