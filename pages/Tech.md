@@ -106,6 +106,8 @@ ____________________________________
 # Typesetting
 
 * [LaTeX](https://drive.google.com/file/d/1X7pp1FXT53Zk-VDWAXggUM7uWjd7VMouview?s=08)
+* [Pandoc](https://pandoc.org/)
+* [Marpit](https://marpit.marp.app/)
 
 # Scientific Diagrams
 * [Chemix](https://chemix.org/)

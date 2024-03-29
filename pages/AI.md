@@ -53,7 +53,8 @@
 
 # Automation
 1. [Compose AI](https://www.compose.ai/)
-2. [Zapier](https://zapier.com/ai)
-3. [AutoGen: Build an Agent](https://microsoft.github.io/autogen/)
+2. [Prefect](https://www.prefect.io/)
+3. [Zapier](https://zapier.com/ai)
+4. [AutoGen: Build an Agent](https://microsoft.github.io/autogen/)
 
 
