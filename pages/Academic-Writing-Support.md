@@ -8,6 +8,8 @@
 
 * [Citation + Plagiarism and More](https://sites.google.com/nyu.edu/wagner-writing-center/home/resources?authuser=0)
 
+* [Nearpod Lesson](https://nearpod.com/t/english-language-arts/11th/creating-a-works-cited-page-L35516736)
+
 * [Personal Resources](https://drive.google.com/drive/folders/1XhSR29AZSxT0eg204RHexWOQ9vmE0WVx?usp=sharing)
 
 
