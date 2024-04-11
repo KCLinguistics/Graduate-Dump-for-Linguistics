@@ -20,6 +20,8 @@
 
 * [University of Zurich](https://www.comparativelinguistics.uzh.ch/en/colloquium.html)
 
+* [Institut für Finnougristik, LMU München](https://www.finnougristik.uni-muenchen.de/forschungsschwerpunkte/kolloquium-sose-2024/index.html)
+
 # Cognitive Science
 
 * [Socities and Groups on Linguistics, Biology, Cognitive Neuroscience and more](https://ocw.mit.edu/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/pages/related-resources/)
