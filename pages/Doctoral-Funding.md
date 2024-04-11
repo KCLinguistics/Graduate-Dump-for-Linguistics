@@ -10,4 +10,6 @@
 
 5. [LinguistList Career](https://linguistlist.org/career/search/?page=2&type=Support)
 
-5. [Gerda Henkel Stiftung](https://www.gerda-henkel-stiftung.de/en/phd-scholarships)
+6. [Gerda Henkel Stiftung](https://www.gerda-henkel-stiftung.de/en/phd-scholarships)
+
+7. [ESCOP Job Listings](https://www.escop.eu/news/job-market)
