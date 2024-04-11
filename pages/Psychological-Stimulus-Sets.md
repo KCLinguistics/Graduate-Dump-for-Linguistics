@@ -30,17 +30,22 @@ Please be aware of copyright laws in your country or institution as you proceed 
 # Faces
 1. [Dartmouth Database of Children's Faces](https://lab.faceblind.org/k_dalrymple/ddcf)
 
-2. [The Evolved Person Perception & Cognition Lab](http://www.epaclab.com/face-stimuli)
+2.   [Full-Body Photo Database](https://osf.io/egj7c/)
 
-3. [Face Database: Massive Compilation from Princeton](https://libguides.princeton.edu/facedatabases)
+3.   [Face-Body Swapped Photo Database](https://osf.io/ny32q/)
 
-4. [The Wild Faces Database](https://osf.io/6p4r7/)
+4. [The Evolved Person Perception & Cognition Lab](http://www.epaclab.com/face-stimuli)
+
+5. [Face Database: Massive Compilation from Princeton](https://libguides.princeton.edu/facedatabases)
+
+6. [The Wild Faces Database](https://osf.io/6p4r7/)
 
 
 # Embedded Images and Artificial Figures
 1. [L-EFT Leuven Embedded Figures Test](https://psytests.be/clinicians/test-centrum/l-eft.php)
 
 2. [The Brussels Artificial Character Sets](https://crcn.ulb.ac.be/lab_post/bacs/)
+
 
 
 # Gesture
