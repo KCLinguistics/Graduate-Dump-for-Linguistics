@@ -34,6 +34,11 @@
 2. [Sherman Centre for Digital Scholarship](https://echo360.ca/section/dd5d5621-fe11-4093-a4e0-78d7abbcbca7/home)
 
 
+# Experimental Linguistics
+
+1. [Slavic Languages in the Black Box: University of Tubingen](https://uni-tuebingen.de/es/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/slavisches-seminar/institut/mitarbeitende/anja-gattnar/aktivitaeten/workshop-praktische-einfuehrung-in-die-arbeit-mit-paraviz/program/)
+
+
 # Neuroimaging
 
 1. [Allen Brain Map](https://portal.brain-map.org/)
@@ -60,7 +65,7 @@
 
 # Brain Injury
 
-1. (interact-ABI-lity University of Sydney)[https://abi-communication-lab.sydney.edu.au/courses/interact-abi-lity/]
+1. [interact-ABI-lity: University of Sydney](https://abi-communication-lab.sydney.edu.au/courses/interact-abi-lity/)
 
 
 # Neuroimaging Datasets
