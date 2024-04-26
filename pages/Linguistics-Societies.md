@@ -26,6 +26,7 @@
 
 * [Socities and Groups on Linguistics, Biology, Cognitive Neuroscience and more](https://ocw.mit.edu/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/pages/related-resources/)
 * [Brain Acoustics](https://www.braincoustics.com/)
+* [Center for the Advanced Study of Collective Behavior: UniKonstanz](https://www.exc.uni-konstanz.de/collective-behaviour/about-us/people/integrative-biophysics-group/talks/)
 * [Society for Neuroscience](http://www.sfn.org/)
 * [Multisensory Math](https://multisensorymath.online/courses/)
 * [The International Brain Research Organization](https://ibro.org/)
