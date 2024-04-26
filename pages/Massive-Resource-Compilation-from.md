@@ -106,6 +106,7 @@
 
 2. [Carnegie Mellon University: Introduction to Psychology](https://oli.cmu.edu/courses/introduction-to-psychology-open-free/)
 
+3. [Research Issues and Practices: from Jason Geller](https://psy505-s24.netlify.app/schedule)
 
 # Sign Language
 
