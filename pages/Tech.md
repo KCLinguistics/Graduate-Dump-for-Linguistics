@@ -109,8 +109,10 @@ ____________________________________
 * [Pandoc](https://pandoc.org/)
 * [Marpit](https://marpit.marp.app/)
 
-# Scientific Diagrams
+# Scientific  and Math Diagrams
 * [Chemix](https://chemix.org/)
+* [Desmos](https://www.desmos.com/)
+* [Piratefsh Github](https://piratefsh.github.io/p5js-art/public/lsystems/)
 
 
 
@@ -118,6 +120,10 @@ ____________________________________
 
 * [Python](https://ajstewartlang.github.io/open_intro_to_python/content.html)
 * [Scientific Python](https://www.spyder-ide.org/)
+
+
+# Notebooks
+* [Notebooks](https://nbviewer.org/)
 
 __________________________________________________________________
 * This might help those that want to plot _basic_ language maps based on Glottolog information (language names and coordinates) without much programming skills: https://t.co/4FGqltv8lX
