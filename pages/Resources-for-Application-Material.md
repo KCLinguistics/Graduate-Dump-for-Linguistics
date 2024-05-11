@@ -32,6 +32,11 @@
 * [Getting into Psych Grad School – A Panel for BIPOC students](https://www.youtube.com/watch?v=DcC9GrWeamk&t=1s)
 
 
+# Diversity Statement + CV + Peronsal Statement Combined
+
+*[Clinical Psychology](https://osf.io/xj4sv/wiki/Clinical%20Psychology%20PhD/)
+
+
 # How To Guides
 
 * [How-To Guides from McGill](https://www.mcgill.ca/caps/publications/guides)
