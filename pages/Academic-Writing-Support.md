@@ -15,8 +15,10 @@
 
 # Meta Analysis
 
-* [PIM CUIJPERS Blog + Free Tool](https://www.pimcuijpers.com/blog/meta-analysis/)
+* [Comprehensive Meta-Analysis Tool](https://meta-analysis.com/)
 * [Meta Essentials: Use 'How_to_interpret_results_of_meta-analysis_1.4.pdf' as an introduction](https://www.erim.eur.nl/research-support/meta-essentials/download/)
+* [PIM CUIJPERS Blog + Free Tool](https://www.pimcuijpers.com/blog/meta-analysis/)
+
 
 
 # Writing Groups from Universities
