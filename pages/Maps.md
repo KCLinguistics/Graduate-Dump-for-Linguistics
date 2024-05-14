@@ -6,7 +6,8 @@
 ° Australia
 * [Map of Indigenous Australia](https://aiatsis.gov.au/explore/map-indigenous-australia)
 * [AustLang](https://collection.aiatsis.gov.au/austlang/search)
-
+° Europe
+* [Minority Languages of Europe: North Africa included](https://sblanguagemaps.wordpress.com/2013/06/09/minority-languages-of-europe/)
 ° Canada
 * [Map of Indigenous Canada](https://sblanguagemaps.wordpress.com/2012/12/23/native-languages-of-canada/)
 * [Ethnologue entry](https://www.ethnologue.com/country/CA/)
