@@ -85,7 +85,7 @@
 
 
 # Cultural Affairs
-## Language Maps
+° Language Maps
 [Maps](pages/Maps.md)
 
 
