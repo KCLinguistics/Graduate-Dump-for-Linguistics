@@ -24,13 +24,17 @@
 
 ## Table of Contents:
 
-# Social Media
+# Social Media and Tech
 
 [Facebook Groups for Linguistics](pages/Facebook-Groups-for-Linguistics.md)
 
 [Linguistics on Social Media](pages/Linguistics-on-Social-Media.md)
 
 [Podcasts](pages/Podcasts.md) 
+
+[Tech](pages/Tech.md)
+
+[AI](pages/AI.md)
 
 # Graduate Application and Mentorship
 
@@ -42,7 +46,7 @@
 
 [Resources for Application Material](pages/Resources-for-Application-Material.md)
 
-# Academic Journal
+# Academic Journals
 
 [Journals](pages/Journals.md)
 
@@ -50,19 +54,11 @@
 
 [Language Learning Resources](pages/Language-Learning-Resources.md)
 
-# Tech Resources 
-[Tech](pages/Tech.md)
-
-[AI](pages/AI.md)
 
 # Funding
 [Doctoral Funding](pages/Doctoral-Funding.md)
 
 [LinguistList Graduate Programs with Funding Information](https://old.linguistlist.org/support/browse-support.cfm)
-
-# Study Materials and Resources for Learning
- 
-[Massive Resource Compilation from](pages/Massive-Resource-Compilation-from.md)
 
 
 # Societies 
@@ -72,15 +68,25 @@
 
 [Max-Planck Cluster](pages/Max-Planck-Cluster.md)
 
+# Study Materials and Resources for Learning
+ 
+[Massive Resource Compilation from](pages/Massive-Resource-Compilation-from.md)
+
 # Internship Oppurtunities
 
 [Internships](pages/Internships.md)
 
-# Stimuli Sets
+
+# Experimental Design
 
 [Experiment Paradigms](pages/Experiment-Paradigms.md)
 
 [Psychological Stimulus Sets](pages/Psychological-Stimulus-Sets.md)
+
+
+# Cultural Affairs
+## Language Maps
+[Maps](pages/Maps.md)
 
 
 
