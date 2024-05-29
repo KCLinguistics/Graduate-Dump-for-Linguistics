@@ -10,8 +10,11 @@
 
 # Text to Image and Video
 
-1. [Midjourney](https://www.midjourney.com/)
-2. [Runway](https://runwayml.com/)
+1. [AlphaFold for BioSciences](https://golgi.sandbox.google.com/about) 
+2. [Luma Labs 3D Rendering](https://lumalabs.ai/) 
+3. [Midjourney](https://www.midjourney.com/)
+4. [Runway](https://runwayml.com/)
+5. [Skybox 360° Rendering](https://skybox.blockadelabs.com/)
 
 
 # Text to Speech, Voice Cloning, and Noise Reduction
@@ -38,14 +41,18 @@
 
 
 # Summerization & Literature Maps
-1. [Notion AI](https://www.notion.so/product/ai)
-2. [Litmaps](https://www.litmaps.com/)
+1. [DrawB Vercel](https://drawdb.vercel.app/) 
+2. [Litmaps](https://www.litmaps.com/) 
+3. [Map This](https://www.map-this.com/) 
+4. [Notion AI](https://www.notion.so/product/ai)
 
 
 # Coding
 1. [Blackbox](https://www.useblackbox.io/)
 2. [GitHub Copilot](https://copilot.github.com/)
-3. [Llama 2](https://ai.meta.com/llama/)
+3. [Julius for R](https://julius.ai/chat)
+4. [Llama 2](https://ai.meta.com/llama/)
+
 
 # PDF Reader
 1. [Humata AI](https://www.humata.ai/)
