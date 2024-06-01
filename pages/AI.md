@@ -45,6 +45,7 @@
 2. [Litmaps](https://www.litmaps.com/) 
 3. [Map This](https://www.map-this.com/) 
 4. [Notion AI](https://www.notion.so/product/ai)
+5. [Pop Ai for Presentation and Summarization](https://www.popai.pro/)
 
 
 # Coding
