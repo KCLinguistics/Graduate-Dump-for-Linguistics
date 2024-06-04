@@ -51,15 +51,13 @@ ___________________________________________________
 
 Here are the resources: 
 
-1) [British Council](https://play.google.com/store/apps/details?id=com.britishcouncil.ieltsprep)
+1) [Familiarisation Test from British Council](https://takeielts.britishcouncil.org/take-ielts/prepare/ielts-on-computer/familiarisation-test)
 
-2) [Familiarisation Test from British Council](https://takeielts.britishcouncil.org/take-ielts/prepare/ielts-on-computer/familiarisation-test)
+2) [YouTube Resource](https://www.youtube.com/channel/UCiooIcx7Slmuczo6HkaE41g)
 
-3) [YouTube Resource](https://www.youtube.com/channel/UCiooIcx7Slmuczo6HkaE41g)
+3) [Facebook page](https://www.facebook.com/TakeIELTSOfficial)
 
-4) [Facebook page](https://www.facebook.com/TakeIELTSOfficial)
-
-5) [Free workshops from British Council](https://registration.britishcouncil.org/l/734493/2020-06-09/28xn1?utm_source=Social_Media&utm_medium=BCIELTS_Facebook&utm_campaign=Webinars_2022&fbclid=IwAR1LEMElMXrJDCO8IXi3V34bzHBPiPhXTv7yraahX5QLeb7VM1rSFB2SVkc)
+4) [Free workshops from British Council](https://registration.britishcouncil.org/l/734493/2020-06-09/28xn1?utm_source=Social_Media&utm_medium=BCIELTS_Facebook&utm_campaign=Webinars_2022&fbclid=IwAR1LEMElMXrJDCO8IXi3V34bzHBPiPhXTv7yraahX5QLeb7VM1rSFB2SVkc)
 
 
 Last but not the least, this is my [favorite channel](https://youtu.be/eay1wXKPtws)
