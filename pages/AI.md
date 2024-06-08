@@ -23,6 +23,7 @@
 2. [Krisp](https://krisp.ai/)
 3. [Voicemod](https://www.voicemod.net/)
 3. [Whisper](https://github.com/openai/whisper)
+4. [Bandlab](https://www.bandlab.com/?lang=en)
 
 # Task Manager 
 
