@@ -5,8 +5,9 @@
 
 1. [Bard/Gemini](https://gemini.google.com/)
 2. [ChatGPT](https://chat.openai.com)
-3. [Copilot](https://copilot.microsoft.com/)
-4. [Perplexity](https://www.perplexity.ai/)
+3. [Claude](https://poe.com/Claude-3.5-Sonnet)
+4. [Copilot](https://copilot.microsoft.com/)
+5. [Perplexity](https://www.perplexity.ai/)
 
 # Text to Image and Video
 
@@ -42,11 +43,13 @@
 
 
 # Summerization & Literature Maps
-1. [DrawB Vercel](https://drawdb.vercel.app/) 
-2. [Litmaps](https://www.litmaps.com/) 
-3. [Map This](https://www.map-this.com/) 
-4. [Notion AI](https://www.notion.so/product/ai)
-5. [Pop Ai for Presentation and Summarization](https://www.popai.pro/)
+1. [Answer AI](https://answersai.com/)
+2. [DrawB Vercel](https://drawdb.vercel.app/) 
+3. [Litmaps](https://www.litmaps.com/) 
+4. [Map This](https://www.map-this.com/) 
+5. [Notion AI](https://www.notion.so/product/ai)
+6. [Pop Ai for Presentation and Summarization](https://www.popai.pro/)
+
 
 
 # Coding
