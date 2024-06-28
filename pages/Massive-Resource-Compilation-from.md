@@ -38,6 +38,8 @@
 
 1. [Slavic Languages in the Black Box: University of Tubingen](https://uni-tuebingen.de/es/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/slavisches-seminar/institut/mitarbeitende/anja-gattnar/aktivitaeten/workshop-praktische-einfuehrung-in-die-arbeit-mit-paraviz/program/)
 
+2. [L1 + L2 Measuring Language Italian](https://github.com/francesco-vespignani/measuring-language-italian)
+
 
 # Neuroimaging
 
