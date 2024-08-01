@@ -123,6 +123,7 @@ ____________________________________
 
 * [Python](https://ajstewartlang.github.io/open_intro_to_python/content.html)
 * [Scientific Python](https://www.spyder-ide.org/)
+* [Programming for Linguistics](https://web.stanford.edu/class/linguist278/)
 
 
 # Notebooks
