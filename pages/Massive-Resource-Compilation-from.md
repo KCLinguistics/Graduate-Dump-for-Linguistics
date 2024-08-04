@@ -18,7 +18,10 @@
 
 5. [MIT CogNet](https://direct.mit.edu/pages/cognet)
 
-6. [Simons Foundation: Online Resources for Systems and Computational Neuroscience](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/)
+6. [MIT Press Open Encyclopedia of Cognitive Science](https://oecs.mit.edu/) 
+
+7. [Simons Foundation: Online Resources for Systems and Computational Neuroscience](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/)
+
 
 # Corpus Linguistics
 
