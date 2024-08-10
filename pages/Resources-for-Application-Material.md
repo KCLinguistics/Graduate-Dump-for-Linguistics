@@ -43,4 +43,7 @@
 
 * [How-To Guides from LABORATORIES ÉCOLE NORMALE SUPÉRIEURE - DÉPARTEMENT D'ÉTUDES COGNITIVES](https://cognition.ens.fr/en/admissions-scholarships-14195)
 
+# Spreadsheets
+
+* [PhD Application Spreadsheet](https://docs.google.com/spreadsheets/d/1HVzurKHFIDKMrZHHwz_NzHkhJM-6bHuB7SqizzK6R8U/edit?gid=0#gid=0)
 
