@@ -6,7 +6,11 @@
 
 * [Auto-citation tool](https://owl.purdue.edu/owl/research_and_citation/resources.html)
 
-* [Citation + Plagiarism and More](https://sites.google.com/nyu.edu/wagner-writing-center/home/resources?authuser=0)
+* [Plagiarism: What is It and How to Recognize and Avoid It from The Writing Center at Indiana University](www.indiana.edu/~wts/wts/plagiarism.html)
+
+* [Principles Regarding Academic Integrity from Northwestern University](www.northwestern.edu/uacc/plagiar.html)
+
+* [Sources from Dartmouth College](http://www.dartmouth.edu/~writing/sources/)
 
 * [Nearpod Lesson](https://nearpod.com/t/english-language-arts/11th/creating-a-works-cited-page-L35516736)
 
