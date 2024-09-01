@@ -54,6 +54,7 @@
 
 # Coding
 1. [Blackbox](https://www.useblackbox.io/)
+2. [Cursor](https://www.cursor.com/)
 2. [GitHub Copilot](https://copilot.github.com/)
 3. [Julius for R](https://julius.ai/chat)
 4. [Llama 2](https://ai.meta.com/llama/)
