@@ -22,6 +22,8 @@
 
 7. [Simons Foundation: Online Resources for Systems and Computational Neuroscience](https://www.simonsfoundation.org/collaborations/global-brain/online-resources-for-systems-and-computational-neuroscience/)
 
+8. [CNeuro2024 - Theoretical and Computational Neuroscience](https://www.youtube.com/playlist?list=PLrAPN1qtMsr9XM_2MqXx2brXBpNit3whQ)
+
 
 # Corpus Linguistics
 
