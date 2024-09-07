@@ -47,3 +47,7 @@
 
 * [PhD Application Spreadsheet](https://docs.google.com/spreadsheets/d/1HVzurKHFIDKMrZHHwz_NzHkhJM-6bHuB7SqizzK6R8U/edit?gid=0#gid=0)
 
+
+# Societies
+* [Society for Affective Science Server](https://www.simplelists.com/affectscience/)
+
