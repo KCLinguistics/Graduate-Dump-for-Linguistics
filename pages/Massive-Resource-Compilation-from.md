@@ -161,6 +161,10 @@
 
 2. [Stanford Introduction to Linguistic Theories](https://plato.stanford.edu/entries/linguistics/)
 
+# Morphology
+
+1. [Rastle Lab](https://www.rastlelab.com/slides)
+
 
 
 
