@@ -14,6 +14,7 @@
 1. [AlphaFold for BioSciences](https://golgi.sandbox.google.com/about) 
 2. [Luma Labs 3D Rendering](https://lumalabs.ai/) 
 3. [Midjourney](https://www.midjourney.com/)
+4. [Napkin AI](https://www.napkin.ai/)
 4. [Runway](https://runwayml.com/)
 5. [Skybox 360° Rendering](https://skybox.blockadelabs.com/)
 
