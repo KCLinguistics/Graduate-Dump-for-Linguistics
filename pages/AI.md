@@ -50,6 +50,7 @@
 5. [Map This](https://www.map-this.com/) 
 6. [Notion AI](https://www.notion.so/product/ai)
 7. [Pop Ai for Presentation and Summarization](https://www.popai.pro/)
+8. [Storm from Stanford](https://storm.genie.stanford.edu/)
 
 
 
