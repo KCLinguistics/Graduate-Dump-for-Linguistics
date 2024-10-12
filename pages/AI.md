@@ -51,6 +51,7 @@
 6. [Notion AI](https://www.notion.so/product/ai)
 7. [Pop Ai for Presentation and Summarization](https://www.popai.pro/)
 8. [Storm from Stanford](https://storm.genie.stanford.edu/)
+9. [VOSviewer](https://www.vosviewer.com/)
 
 
 
