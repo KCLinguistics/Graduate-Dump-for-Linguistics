@@ -45,10 +45,13 @@
 # Summerization & Literature Maps
 1. [Answer AI](https://answersai.com/)
 2. [DrawB Vercel](https://drawdb.vercel.app/) 
-3. [Litmaps](https://www.litmaps.com/) 
-4. [Map This](https://www.map-this.com/) 
-5. [Notion AI](https://www.notion.so/product/ai)
-6. [Pop Ai for Presentation and Summarization](https://www.popai.pro/)
+3. [GoogleLM (other uses: Podcast)](https://notebooklm.google.com/)
+4. [Litmaps](https://www.litmaps.com/) 
+5. [Map This](https://www.map-this.com/) 
+6. [Notion AI](https://www.notion.so/product/ai)
+7. [Pop Ai for Presentation and Summarization](https://www.popai.pro/)
+
+
 
 
 
