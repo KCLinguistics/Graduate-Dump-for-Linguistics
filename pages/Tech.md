@@ -94,9 +94,10 @@ ____________________________________
 
 
 # Data Visualization
-[Floursih Studio](https://flourish.studio/examples/)
-[CrowdSignal](https://crowdsignal.com/?utm_source=csad-poll-front)
-[Sketch.Metademolab](https://sketch.metademolab.com/)
+* [Floursih Studio](https://flourish.studio/examples/)
+* [CrowdSignal](https://crowdsignal.com/?utm_source=csad-poll-front)
+* [DataMapPlots (Litmap alternative)](https://datamapplot.readthedocs.io/en/latest/selection_and_filtering.html)
+* [Sketch.Metademolab](https://sketch.metademolab.com/)
 
 
 # Tractography and Neuroimaging Dataset
