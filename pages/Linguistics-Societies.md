@@ -46,3 +46,4 @@
 * [The Society for Endocrinology](https://www.endocrine.org/)
 * [Christopher Reeve Paralysis Foundation](https://www.christopherreeve.org/)
 * [Human Frontier Science Program](https://www.hfsp.org/)
+* [Society for Affective Science Server](https://www.simplelists.com/affectscience/)
