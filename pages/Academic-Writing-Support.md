@@ -8,6 +8,8 @@
 
 * [Plagiarism: What is It and How to Recognize and Avoid It from The Writing Center at Indiana University](https://wts.indiana.edu/)
 
+* [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+
 * [Principles Regarding Academic Integrity from Northwestern University](https://www.northwestern.edu/provost/policies-procedures/academic-integrity/principles.html#:~:text=Maintaining%20academic%20integrity%20requires%20an,representation%20of%20sources%20and%20data.)
 
 * [Sources from Dartmouth College](https://students.dartmouth.edu/writing-center/student-guides/sources-and-citations-guide)
