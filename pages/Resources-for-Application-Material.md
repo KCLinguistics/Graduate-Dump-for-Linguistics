@@ -26,7 +26,7 @@
     
 * [USCF Physical Sciences Diversity Statement](https://physicalsciences.ucsd.edu/_files/examples-submitted-diversity-statements.pdf)
     
-* [Ohio State Diversitty Statements](https://equityandinclusion.cfaes.ohio-state.edu/sites/diversity/files/imce/Diversity%20Statementof%20Examples%20University%20of%20San%20Diego%20%281%29.pdf)
+* [Ohio State Diversity Statements](https://equityandinclusion.cfaes.ohio-state.edu/sites/diversity/files/imce/Diversity%20Statementof%20Examples%20University%20of%20San%20Diego%20%281%29.pdf)
 
 * [Diversity, Inclusion, and Equity: Core Principles - ](https://aacu.org/making-excellence-inclusive)
 * [Getting into Psych Grad School – A Panel for BIPOC students](https://www.youtube.com/watch?v=DcC9GrWeamk&t=1s)
