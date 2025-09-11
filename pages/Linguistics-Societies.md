@@ -47,3 +47,4 @@
 * [Christopher Reeve Paralysis Foundation](https://www.christopherreeve.org/)
 * [Human Frontier Science Program](https://www.hfsp.org/)
 * [Society for Affective Science Server](https://www.simplelists.com/affectscience/)
+* [PsychoPy and Pavlovia Training Events](https://run.pavlovia.org/pavlovia/survey/?surveyId=bcaab3c1-fc72-479a-9b82-226c84a64fb3)
