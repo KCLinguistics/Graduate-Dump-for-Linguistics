@@ -13,6 +13,8 @@
 
 * [Hayashi Laboratory, Japan - CiNet, NICT ](https://www2.nict.go.jp/bnc/hayashi/en/index.html)
 
+* [North American Psych/Cog Sci Labs data base maintained by Allison Harvey](https://docs.google.com/spreadsheets/d/1R3WnzR2CQpziRhuh6DQ9agGOuPvHLgFV2DTJFpkwYe8/edit?gid=0#gid=0)
+
 * [Indian Psych/Cog Sci Labs database maintained by Nikita Ghodke and Pooja Kulkarni](https://docs.google.com/spreadsheets/d/1LXuQbksdK58PAjCcOFpfXSSRwPHL5s-lfL_ZAFqJnz8/edit#gid=0)
 
 * [IRCCS Centro San Giovanni di Dio Fatebenefratelli, Brescia, Italy](http://www.cognitiveneuroscience.it/2020/04/20/partecipa-ai-nostri-studi/?lang=en)
