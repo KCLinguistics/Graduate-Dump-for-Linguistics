@@ -1,3 +1,12 @@
+# Funding Types
+
+1. [USA 1](https://link.springer.com/article/10.1007/s00355-025-01625-7)
+2. [USA 2](https://qmgs.walsall.sch.uk/wp-content/uploads/2019/06/2019_june_financial_aid.pdf)
+
+*The list of need blind colleges change from year to year, as of 2025, it is sitting at 8*
+
+3. [Australia 1](https://www.studyaustralia.gov.au/zh/tools-and-resources/tips-and-advice-for-students/five-tips-for-a-strong-scholarship-application)
+
 # European + Global Funding
 
 1. [La Caixa Foundation](https://finder-fellowships.lacaixafoundation.org/finder)
