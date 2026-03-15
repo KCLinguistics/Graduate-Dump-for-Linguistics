@@ -6,6 +6,8 @@
 
 * [Auto-citation tool](https://owl.purdue.edu/owl/research_and_citation/resources.html)
 
+* [Auto-Citation LLM Review tool for OverLeaf](https://github.com/demfier/openleaf)
+
 * [Plagiarism: What is It and How to Recognize and Avoid It from The Writing Center at Indiana University](https://wts.indiana.edu/)
 
 * [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
