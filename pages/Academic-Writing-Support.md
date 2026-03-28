@@ -8,6 +8,8 @@
 
 * [Auto-Citation LLM Review tool for OverLeaf](https://github.com/demfier/openleaf)
 
+* [Harvard, Princeton, NYU thesis template](https://github.com/suchow/Dissertate?tab=readme-ov-file)
+
 * [Plagiarism: What is It and How to Recognize and Avoid It from The Writing Center at Indiana University](https://wts.indiana.edu/)
 
 * [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
