@@ -8,7 +8,7 @@
 
 * [Auto-Citation LLM Review tool for OverLeaf](https://github.com/demfier/openleaf)
 
-* [Harvard, Princeton, NYU thesis template](https://github.com/suchow/Dissertate?tab=readme-ov-file)
+* [Harvard, Princeton, NYU thesis template](https://www.overleaf.com/project/5e03cbb16dd7730001d983cc)
 
 * [Plagiarism: What is It and How to Recognize and Avoid It from The Writing Center at Indiana University](https://wts.indiana.edu/)
 
